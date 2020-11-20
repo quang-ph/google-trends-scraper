@@ -1,0 +1,304 @@
+US-AL-630, Birmingham AL
+US-AL-522, Columbus GA
+US-AL-606, Dothan AL
+US-AL-691, Huntsville-Decatur (Florence) AL
+US-AL-711, Meridian MS
+US-AL-686, Mobile AL-Pensacola (Ft. Walton Beach) FL
+US-AL-698, Montgomery (Selma) AL
+US-AK-743, Anchorage AK
+US-AK-745, Fairbanks AK
+US-AK-747, Juneau AK
+US-AZ-753, Phoenix AZ
+US-AZ-789, Tucson (Sierra Vista) AZ
+US-AZ-771, Yuma AZ-El Centro CA
+US-AR-670, Ft. Smith-Fayetteville-Springdale-Rogers AR
+US-AR-734, Jonesboro AR
+US-AR-693, Little Rock-Pine Bluff AR
+US-AR-640, Memphis TN
+US-AR-628, Monroe LA-El Dorado AR
+US-AR-612, Shreveport LA
+US-AR-619, Springfield MO
+US-CA-800, Bakersfield CA
+US-CA-868, Chico-Redding CA
+US-CA-802, Eureka CA
+US-CA-866, Fresno-Visalia CA
+US-CA-803, Los Angeles CA
+US-CA-813, Medford-Klamath Falls OR
+US-CA-828, Monterey-Salinas CA
+US-CA-804, Palm Springs CA
+US-CA-811, Reno NV
+US-CA-862, Sacramento-Stockton-Modesto CA
+US-CA-825, San Diego CA
+US-CA-807, San Francisco-Oakland-San Jose CA
+US-CA-855, Santa Barbara-Santa Maria-San Luis Obispo CA
+US-CA-771, Yuma AZ-El Centro CA
+US-CO-752, Colorado Springs-Pueblo CO
+US-CO-751, Denver CO
+US-CO-773, Grand Junction-Montrose CO
+US-CT-533, Hartford & New Haven CT
+US-DE-504, Philadelphia PA
+US-DE-576, Salisbury MD
+US-DC, District of Columbia
+US-FL-571, Ft. Myers-Naples FL
+US-FL-592, Gainesville FL
+US-FL-561, Jacksonville FL
+US-FL-528, Miami-Ft. Lauderdale FL
+US-FL-686, Mobile AL-Pensacola (Ft. Walton Beach) FL
+US-FL-534, Orlando-Daytona Beach-Melbourne FL
+US-FL-656, Panama City FL
+US-FL-530, Tallahassee FL-Thomasville GA
+US-FL-539, Tampa-St. Petersburg (Sarasota) FL
+US-FL-548, West Palm Beach-Ft. Pierce FL
+US-GA-525, Albany GA
+US-GA-524, Atlanta GA
+US-GA-520, Augusta GA
+US-GA-575, Chattanooga TN
+US-GA-522, Columbus GA
+US-GA-606, Dothan AL
+US-GA-561, Jacksonville FL
+US-GA-503, Macon GA
+US-GA-507, Savannah GA
+US-GA-530, Tallahassee FL-Thomasville GA
+US-HI-744, Honolulu HI
+US-ID-757, Boise ID
+US-ID-758, Idaho Falls-Pocatello ID
+US-ID-881, Spokane WA
+US-ID-760, Twin Falls ID
+US-IL-648, Champaign & Springfield-Decatur IL
+US-IL-602, Chicago IL
+US-IL-682, Davenport IA-Rock Island-Moline IL
+US-IL-649, Evansville IN
+US-IL-632, Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
+US-IL-675, Peoria-Bloomington IL
+US-IL-717, Quincy IL-Hannibal MO-Keokuk IA
+US-IL-610, Rockford IL
+US-IL-609, St. Louis MO
+US-IL-581, Terre Haute IN
+US-IN-602, Chicago IL
+US-IN-515, Cincinnati OH
+US-IN-649, Evansville IN
+US-IN-509, Ft. Wayne IN
+US-IN-527, Indianapolis IN
+US-IN-582, Lafayette IN
+US-IN-529, Louisville KY
+US-IN-588, South Bend-Elkhart IN
+US-IN-581, Terre Haute IN
+US-IA-637, Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+US-IA-682, Davenport IA-Rock Island-Moline IL
+US-IA-679, Des Moines-Ames IA
+US-IA-652, Omaha NE
+US-IA-631, Ottumwa IA-Kirksville MO
+US-IA-611, Rochester MN-Mason City IA-Austin MN
+US-IA-624, Sioux City IA
+US-KS-603, Joplin MO-Pittsburg KS
+US-KS-616, Kansas City MO
+US-KS-638, St. Joseph MO
+US-KS-605, Topeka KS
+US-KS-678, Wichita-Hutchinson KS
+US-KY-736, Bowling Green KY
+US-KY-564, Charleston-Huntington WV
+US-KY-515, Cincinnati OH
+US-KY-649, Evansville IN
+US-KY-557, Knoxville TN
+US-KY-541, Lexington KY
+US-KY-529, Louisville KY
+US-KY-659, Nashville TN
+US-KY-632, Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
+US-KY-531, Tri-Cities TN-VA
+US-LA-644, Alexandria LA
+US-LA-716, Baton Rouge LA
+US-LA-642, Lafayette LA
+US-LA-643, Lake Charles LA
+US-LA-628, Monroe LA-El Dorado AR
+US-LA-622, New Orleans LA
+US-LA-612, Shreveport LA
+US-ME-537, Bangor ME
+US-ME-500, Portland-Auburn ME
+US-ME-552, Presque Isle ME
+US-MD-512, Baltimore MD
+US-MD-576, Salisbury MD
+US-MD-511, Washington DC (Hagerstown MD)
+US-MA-506, Boston MA-Manchester NH
+US-MA-521, Providence RI-New Bedford MA
+US-MA-543, Springfield-Holyoke MA
+US-MI-583, Alpena MI
+US-MI-505, Detroit MI
+US-MI-513, Flint-Saginaw-Bay City MI
+US-MI-563, Grand Rapids-Kalamazoo-Battle Creek MI
+US-MI-551, Lansing MI
+US-MI-553, Marquette MI
+US-MI-588, South Bend-Elkhart IN
+US-MI-547, Toledo OH
+US-MI-540, Traverse City-Cadillac MI
+US-MN-676, Duluth MN-Superior WI
+US-MN-724, Fargo-Valley City ND
+US-MN-702, La Crosse-Eau Claire WI
+US-MN-737, Mankato MN
+US-MN-613, Minneapolis-St. Paul MN
+US-MN-611, Rochester MN-Mason City IA-Austin MN
+US-MS-716, Baton Rouge LA
+US-MS-746, Biloxi-Gulfport MS
+US-MS-673, Columbus-Tupelo-West Point MS
+US-MS-647, Greenwood-Greenville MS
+US-MS-710, Hattiesburg-Laurel MS
+US-MS-718, Jackson MS
+US-MS-640, Memphis TN
+US-MS-711, Meridian MS
+US-MO-604, Columbia-Jefferson City MO
+US-MO-603, Joplin MO-Pittsburg KS
+US-MO-616, Kansas City MO
+US-MO-631, Ottumwa IA-Kirksville MO
+US-MO-632, Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
+US-MO-717, Quincy IL-Hannibal MO-Keokuk IA
+US-MO-619, Springfield MO
+US-MO-638, St. Joseph MO
+US-MO-609, St. Louis MO
+US-MT-756, Billings, MT
+US-MT-754, Butte-Bozeman MT
+US-MT-798, Glendive MT
+US-MT-755, Great Falls MT
+US-MT-766, Helena MT
+US-MT-687, Minot-Bismarck-Dickinson(Williston) ND
+US-MT-762, Missoula MT
+US-NE-759, Cheyenne WY-Scottsbluff NE
+US-NE-751, Denver CO
+US-NE-722, Lincoln & Hastings-Kearney NE
+US-NE-740, North Platte NE
+US-NE-652, Omaha NE
+US-NE-624, Sioux City IA
+US-NE-725, Sioux Falls(Mitchell) SD
+US-NV-839, Las Vegas NV
+US-NV-811, Reno NV
+US-NV-770, Salt Lake City UT
+US-NH-506, Boston MA-Manchester NH
+US-NH-523, Burlington VT-Plattsburgh NY
+US-NH-500, Portland-Auburn ME
+US-NJ-501, New York NY
+US-NJ-504, Philadelphia PA
+US-NM-790, Albuquerque-Santa Fe NM
+US-NM-634, Amarillo TX
+US-NM-765, El Paso TX
+US-NY-532, Albany-Schenectady-Troy NY
+US-NY-502, Binghamton NY
+US-NY-514, Buffalo NY
+US-NY-523, Burlington VT-Plattsburgh NY
+US-NY-565, Elmira NY
+US-NY-501, New York NY
+US-NY-538, Rochester NY
+US-NY-555, Syracuse NY
+US-NY-526, Utica NY
+US-NY-549, Watertown NY
+US-NC-517, Charlotte NC
+US-NC-570, Florence-Myrtle Beach SC
+US-NC-518, Greensboro-High Point-Winston Salem NC
+US-NC-545, Greenville-New Bern-Washington NC
+US-NC-567, Greenville-Spartanburg SC-Asheville NC-Anderson SC
+US-NC-544, Norfolk-Portsmouth-Newport News VA
+US-NC-560, Raleigh-Durham (Fayetteville) NC
+US-NC-550, Wilmington NC
+US-ND-724, Fargo-Valley City ND
+US-ND-687, Minot-Bismarck-Dickinson(Williston) ND
+US-OH-564, Charleston-Huntington WV
+US-OH-515, Cincinnati OH
+US-OH-510, Cleveland-Akron (Canton) OH
+US-OH-535, Columbus OH
+US-OH-542, Dayton OH
+US-OH-509, Ft. Wayne IN
+US-OH-558, Lima OH
+US-OH-597, Parkersburg WV
+US-OH-547, Toledo OH
+US-OH-554, Wheeling WV-Steubenville OH
+US-OH-536, Youngstown OH
+US-OH-596, Zanesville OH
+US-OK-634, Amarillo TX
+US-OK-670, Ft. Smith-Fayetteville-Springdale-Rogers AR
+US-OK-650, Oklahoma City OK
+US-OK-657, Sherman TX-Ada OK
+US-OK-671, Tulsa OK
+US-OK-627, Wichita Falls TX & Lawton OK
+US-OR-821, Bend OR
+US-OR-757, Boise ID
+US-OR-801, Eugene OR
+US-OR-813, Medford-Klamath Falls OR
+US-OR-820, Portland OR
+US-OR-810, Yakima-Pasco-Richland-Kennewick WA
+US-PA-514, Buffalo NY
+US-PA-565, Elmira NY
+US-PA-516, Erie PA
+US-PA-566, Harrisburg-Lancaster-Lebanon-York PA
+US-PA-574, Johnstown-Altoona PA
+US-PA-504, Philadelphia PA
+US-PA-508, Pittsburgh PA
+US-PA-577, Wilkes Barre-Scranton PA
+US-PA-536, Youngstown OH
+US-RI, Rhode Island
+US-SC-520, Augusta GA
+US-SC-519, Charleston SC
+US-SC-517, Charlotte NC
+US-SC-546, Columbia SC
+US-SC-570, Florence-Myrtle Beach SC
+US-SC-567, Greenville-Spartanburg SC-Asheville NC-Anderson SC
+US-SC-507, Savannah GA
+US-SD-764, Rapid City SD
+US-SD-725, Sioux Falls(Mitchell) SD
+US-TN-575, Chattanooga TN
+US-TN-639, Jackson TN
+US-TN-557, Knoxville TN
+US-TN-640, Memphis TN
+US-TN-659, Nashville TN
+US-TN-531, Tri-Cities TN-VA
+US-TX-662, Abilene-Sweetwater TX
+US-TX-634, Amarillo TX
+US-TX-635, Austin TX
+US-TX-692, Beaumont-Port Arthur TX
+US-TX-600, Corpus Christi TX
+US-TX-623, Dallas-Ft. Worth TX
+US-TX-765, El Paso TX
+US-TX-636, Harlingen-Weslaco-Brownsville-McAllen TX
+US-TX-618, Houston TX
+US-TX-749, Laredo TX
+US-TX-651, Lubbock TX
+US-TX-633, Odessa-Midland TX
+US-TX-661, San Angelo TX
+US-TX-641, San Antonio TX
+US-TX-657, Sherman TX-Ada OK
+US-TX-612, Shreveport LA
+US-TX-709, Tyler-Longview(Lufkin & Nacogdoches) TX
+US-TX-626, Victoria TX
+US-TX-625, Waco-Temple-Bryan TX
+US-TX-627, Wichita Falls TX & Lawton OK
+US-UT, Utah
+US-VT-523, Burlington VT-Plattsburgh NY
+US-VA-559, Bluefield-Beckley-Oak Hill WV
+US-VA-584, Charlottesville VA
+US-VA-569, Harrisonburg VA
+US-VA-544, Norfolk-Portsmouth-Newport News VA
+US-VA-556, Richmond-Petersburg VA
+US-VA-573, Roanoke-Lynchburg VA
+US-VA-531, Tri-Cities TN-VA
+US-VA-511, Washington DC (Hagerstown MD)
+US-WA-820, Portland OR
+US-WA-819, Seattle-Tacoma WA
+US-WA-881, Spokane WA
+US-WA-810, Yakima-Pasco-Richland-Kennewick WA
+US-WV-559, Bluefield-Beckley-Oak Hill WV
+US-WV-564, Charleston-Huntington WV
+US-WV-598, Clarksburg-Weston WV
+US-WV-569, Harrisonburg VA
+US-WV-597, Parkersburg WV
+US-WV-511, Washington DC (Hagerstown MD)
+US-WV-554, Wheeling WV-Steubenville OH
+US-WI-676, Duluth MN-Superior WI
+US-WI-658, Green Bay-Appleton WI
+US-WI-702, La Crosse-Eau Claire WI
+US-WI-669, Madison WI
+US-WI-617, Milwaukee WI
+US-WI-613, Minneapolis-St. Paul MN
+US-WI-705, Wausau-Rhinelander WI
+US-WY-756, Billings, MT
+US-WY-767, Casper-Riverton WY
+US-WY-759, Cheyenne WY-Scottsbluff NE
+US-WY-751, Denver CO
+US-WY-758, Idaho Falls-Pocatello ID
+US-WY-764, Rapid City SD
+US-WY-770, Salt Lake City UT
