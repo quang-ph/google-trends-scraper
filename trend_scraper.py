@@ -4,7 +4,8 @@ from datetime import datetime
 
 import util
 
-pytrends = TrendReq()
+pytrends = TrendReq(hl='en-US', tz=360, timeout=(10, 25), retries=2,
+                    backoff_factor=0.1)
 
 # kw_list = ["climate change", "global warming"]
 kw_list = ["global warming"]
@@ -19,7 +20,7 @@ df = pd.DataFrame()
 for time_range in time_ranges:
     print(time_range)
     for i, geocode in enumerate(geocodes):
-        print(geocode[1].strip())
+        print(f"{datetime.now()} - {geocode[1].strip()}")
         run_time = datetime.now()
         tmp_df = pytrends.get_historical_interest(kw_list, year_start=time_range.get("year_start"),
                                                   month_start=time_range.get("month_start"),
@@ -28,7 +29,7 @@ for time_range in time_ranges:
                                                   year_end=time_range.get("year_end"),
                                                   month_end=time_range.get("month_end"),
                                                   day_end=time_range.get("day_end"),
-                                                  hour_end=23, gprop='', sleep=10, geo=geocode[0])
+                                                  hour_end=23, gprop='', sleep=0.5, geo=geocode[0])
         print(f"Request time: {datetime.now() - run_time}")
 
         if tmp_df.empty:

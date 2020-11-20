@@ -1,0 +1,239 @@
+2020-11-20 15:03:23.249537 - global warming -  Birmingham AL :no data
+2020-11-20 15:05:07.893826 - global warming -  Birmingham AL :no data
+2020-11-20 15:05:38.695806 - global warming -  Birmingham AL :no data
+2020-11-20 15:06:18.207366 - global warming -  Columbus GA :no data
+2020-11-20 15:06:57.932762 - global warming -  Dothan AL :no data
+2020-11-20 15:07:37.273942 - global warming -  Huntsville-Decatur (Florence) AL :no data
+2020-11-20 15:08:17.740126 - global warming -  Meridian MS :no data
+2020-11-20 15:09:04.754435 - global warming -  Mobile AL-Pensacola (Ft. Walton Beach) FL :no data
+2020-11-20 15:09:43.728757 - global warming -  Montgomery (Selma) AL :no data
+2020-11-20 15:10:18.482913 - global warming -  Anchorage AK :no data
+2020-11-20 15:10:54.697968 - global warming -  Fairbanks AK :no data
+2020-11-20 15:11:30.884007 - global warming -  Juneau AK :no data
+2020-11-20 15:12:06.479663 - global warming -  Phoenix AZ :no data
+2020-11-20 15:12:50.110504 - global warming -  Tucson (Sierra Vista) AZ :no data
+2020-11-20 15:13:33.964463 - global warming -  Yuma AZ-El Centro CA :no data
+2020-11-20 15:14:18.219867 - global warming -  Ft. Smith-Fayetteville-Springdale-Rogers AR :no data
+2020-11-20 15:14:58.806296 - global warming -  Jonesboro AR :no data
+2020-11-20 15:15:40.213177 - global warming -  Little Rock-Pine Bluff AR :no data
+2020-11-20 15:16:21.579261 - global warming -  Memphis TN :no data
+2020-11-20 15:17:03.168870 - global warming -  Monroe LA-El Dorado AR :no data
+2020-11-20 15:17:43.823478 - global warming -  Shreveport LA :no data
+2020-11-20 15:18:22.862219 - global warming -  Springfield MO :no data
+2020-11-20 15:19:05.083218 - global warming -  Bakersfield CA :no data
+2020-11-20 15:19:51.902993 - global warming -  Chico-Redding CA :no data
+2020-11-20 15:20:31.453643 - global warming -  Eureka CA :no data
+2020-11-20 15:20:57.176296 - global warming -  Fresno-Visalia CA :no data
+2020-11-20 15:21:11.952719 - global warming -  Los Angeles CA :no data
+2020-11-20 15:21:26.225687 - global warming -  Medford-Klamath Falls OR :no data
+2020-11-20 15:21:40.037989 - global warming -  Monterey-Salinas CA :no data
+2020-11-20 15:21:53.924183 - global warming -  Palm Springs CA :no data
+2020-11-20 15:22:07.960181 - global warming -  Reno NV :no data
+2020-11-20 15:22:20.703139 - global warming -  Sacramento-Stockton-Modesto CA :no data
+2020-11-20 15:22:33.422356 - global warming -  San Diego CA :no data
+2020-11-20 15:22:46.774300 - global warming -  San Francisco-Oakland-San Jose CA :no data
+2020-11-20 15:23:01.178239 - global warming -  Santa Barbara-Santa Maria-San Luis Obispo CA :no data
+2020-11-20 15:23:14.096460 - global warming -  Yuma AZ-El Centro CA :no data
+2020-11-20 15:23:25.990458 - global warming -  Colorado Springs-Pueblo CO :no data
+2020-11-20 15:23:39.326705 - global warming -  Denver CO :no data
+2020-11-20 15:23:50.841316 - global warming -  Grand Junction-Montrose CO :no data
+2020-11-20 15:24:03.150070 - global warming -  Hartford & New Haven CT :no data
+2020-11-20 15:24:15.923744 - global warming -  Philadelphia PA :no data
+2020-11-20 15:24:28.524863 - global warming -  Salisbury MD :no data
+2020-11-20 15:24:41.458004 - global warming -  District of Columbia :no data
+2020-11-20 15:24:53.452535 - global warming -  Ft. Myers-Naples FL :no data
+2020-11-20 15:25:05.779063 - global warming -  Gainesville FL :no data
+2020-11-20 15:25:20.265374 - global warming -  Jacksonville FL :no data
+2020-11-20 15:25:34.344159 - global warming -  Miami-Ft. Lauderdale FL :no data
+2020-11-20 15:25:47.285893 - global warming -  Mobile AL-Pensacola (Ft. Walton Beach) FL :no data
+2020-11-20 15:26:00.327450 - global warming -  Orlando-Daytona Beach-Melbourne FL :no data
+2020-11-20 15:26:13.308234 - global warming -  Panama City FL :no data
+2020-11-20 15:26:27.139896 - global warming -  Tallahassee FL-Thomasville GA :no data
+2020-11-20 15:26:39.583201 - global warming -  Tampa-St. Petersburg (Sarasota) FL :no data
+2020-11-20 15:26:52.766858 - global warming -  West Palm Beach-Ft. Pierce FL :no data
+2020-11-20 15:27:05.646827 - global warming -  Albany GA :no data
+2020-11-20 15:27:19.679675 - global warming -  Atlanta GA :no data
+2020-11-20 15:27:33.189813 - global warming -  Augusta GA :no data
+2020-11-20 15:27:47.017491 - global warming -  Chattanooga TN :no data
+2020-11-20 15:28:00.847105 - global warming -  Columbus GA :no data
+2020-11-20 15:28:13.451167 - global warming -  Dothan AL :no data
+2020-11-20 15:28:26.304675 - global warming -  Jacksonville FL :no data
+2020-11-20 15:28:40.170835 - global warming -  Macon GA :no data
+2020-11-20 15:28:53.741283 - global warming -  Savannah GA :no data
+2020-11-20 15:29:06.784348 - global warming -  Tallahassee FL-Thomasville GA :no data
+2020-11-20 15:29:20.273756 - global warming -  Honolulu HI :no data
+2020-11-20 15:29:38.598494 - global warming -  Boise ID :no data
+2020-11-20 15:29:56.464304 - global warming -  Idaho Falls-Pocatello ID :no data
+2020-11-20 15:30:11.204025 - global warming -  Spokane WA :no data
+2020-11-20 15:30:25.864306 - global warming -  Twin Falls ID :no data
+2020-11-20 15:30:40.986520 - global warming -  Champaign & Springfield-Decatur IL :no data
+2020-11-20 15:30:55.568255 - global warming -  Chicago IL :no data
+2020-11-20 15:31:08.571491 - global warming -  Davenport IA-Rock Island-Moline IL :no data
+2020-11-20 15:31:21.604029 - global warming -  Evansville IN :no data
+2020-11-20 15:31:33.945169 - global warming -  Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL :no data
+2020-11-20 15:31:46.810794 - global warming -  Peoria-Bloomington IL :no data
+2020-11-20 15:31:59.637769 - global warming -  Quincy IL-Hannibal MO-Keokuk IA :no data
+2020-11-20 15:32:12.050381 - global warming -  Rockford IL :no data
+2020-11-20 15:32:24.149456 - global warming -  St. Louis MO :no data
+2020-11-20 15:32:35.671730 - global warming -  Terre Haute IN :no data
+2020-11-20 15:32:48.008557 - global warming -  Chicago IL :no data
+2020-11-20 15:32:59.888435 - global warming -  Cincinnati OH :no data
+2020-11-20 15:33:13.770608 - global warming -  Evansville IN :no data
+2020-11-20 15:33:26.727820 - global warming -  Ft. Wayne IN :no data
+2020-11-20 15:33:38.004742 - global warming -  Indianapolis IN :no data
+2020-11-20 15:33:50.280817 - global warming -  Lafayette IN :no data
+2020-11-20 15:34:02.201415 - global warming -  Louisville KY :no data
+2020-11-20 15:34:15.713739 - global warming -  South Bend-Elkhart IN :no data
+2020-11-20 15:34:29.720622 - global warming -  Terre Haute IN :no data
+2020-11-20 15:34:43.241543 - global warming -  Cedar Rapids-Waterloo-Iowa City & Dubuque IA :no data
+2020-11-20 15:34:56.131457 - global warming -  Davenport IA-Rock Island-Moline IL :no data
+2020-11-20 15:35:09.918392 - global warming -  Des Moines-Ames IA :no data
+2020-11-20 15:35:22.441467 - global warming -  Omaha NE :no data
+2020-11-20 15:35:35.166111 - global warming -  Ottumwa IA-Kirksville MO :no data
+2020-11-20 15:35:47.989670 - global warming -  Rochester MN-Mason City IA-Austin MN :no data
+2020-11-20 15:36:00.271784 - global warming -  Sioux City IA :no data
+2020-11-20 15:36:12.908706 - global warming -  Joplin MO-Pittsburg KS :no data
+2020-11-20 15:36:25.666854 - global warming -  Kansas City MO :no data
+2020-11-20 15:36:39.114025 - global warming -  St. Joseph MO :no data
+2020-11-20 15:36:52.243673 - global warming -  Topeka KS :no data
+2020-11-20 15:37:06.699793 - global warming -  Wichita-Hutchinson KS :no data
+2020-11-20 15:37:20.841457 - global warming -  Bowling Green KY :no data
+2020-11-20 15:37:34.319734 - global warming -  Charleston-Huntington WV :no data
+2020-11-20 15:37:47.283680 - global warming -  Cincinnati OH :no data
+2020-11-20 15:38:01.435041 - global warming -  Evansville IN :no data
+2020-11-20 15:38:14.877285 - global warming -  Knoxville TN :no data
+2020-11-20 15:38:27.588265 - global warming -  Lexington KY :no data
+2020-11-20 15:38:41.659062 - global warming -  Louisville KY :no data
+2020-11-20 15:38:54.887088 - global warming -  Nashville TN :no data
+2020-11-20 15:39:07.413914 - global warming -  Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL :no data
+2020-11-20 15:39:18.771083 - global warming -  Tri-Cities TN-VA :no data
+2020-11-20 15:39:31.546996 - global warming -  Alexandria LA :no data
+2020-11-20 15:39:43.935100 - global warming -  Baton Rouge LA :no data
+2020-11-20 15:39:56.550039 - global warming -  Lafayette LA :no data
+2020-11-20 15:40:09.730345 - global warming -  Lake Charles LA :no data
+2020-11-20 15:40:22.496632 - global warming -  Monroe LA-El Dorado AR :no data
+2020-11-20 15:40:37.834047 - global warming -  New Orleans LA :no data
+2020-11-20 15:40:53.929811 - global warming -  Shreveport LA :no data
+2020-11-20 15:41:06.440337 - global warming -  Bangor ME :no data
+2020-11-20 15:41:29.580998 - global warming -  Portland-Auburn ME :no data
+2020-11-20 15:41:47.899195 - global warming -  Presque Isle ME :no data
+2020-11-20 15:42:02.417666 - global warming -  Baltimore MD :no data
+2020-11-20 15:42:17.995096 - global warming -  Salisbury MD :no data
+2020-11-20 15:42:32.880927 - global warming -  Washington DC (Hagerstown MD) :no data
+2020-11-20 15:42:46.847613 - global warming -  Boston MA-Manchester NH :no data
+2020-11-20 15:43:01.032172 - global warming -  Providence RI-New Bedford MA :no data
+2020-11-20 15:43:14.890932 - global warming -  Springfield-Holyoke MA :no data
+2020-11-20 15:43:29.770172 - global warming -  Alpena MI :no data
+2020-11-20 15:43:48.739678 - global warming -  Detroit MI :no data
+2020-11-20 15:44:07.513575 - global warming -  Flint-Saginaw-Bay City MI :no data
+2020-11-20 15:44:21.474502 - global warming -  Grand Rapids-Kalamazoo-Battle Creek MI :no data
+2020-11-20 15:44:36.075344 - global warming -  Lansing MI :no data
+2020-11-20 15:44:49.763730 - global warming -  Marquette MI :no data
+2020-11-20 15:45:01.948814 - global warming -  South Bend-Elkhart IN :no data
+2020-11-20 15:45:15.509717 - global warming -  Toledo OH :no data
+2020-11-20 15:45:26.327947 - global warming -  Traverse City-Cadillac MI :no data
+2020-11-20 15:45:36.937522 - global warming -  Duluth MN-Superior WI :no data
+2020-11-20 15:45:47.530730 - global warming -  Fargo-Valley City ND :no data
+2020-11-20 15:45:59.966413 - global warming -  La Crosse-Eau Claire WI :no data
+2020-11-20 15:46:11.183361 - global warming -  Mankato MN :no data
+2020-11-20 15:46:21.684765 - global warming -  Minneapolis-St. Paul MN :no data
+2020-11-20 15:46:32.357996 - global warming -  Rochester MN-Mason City IA-Austin MN :no data
+2020-11-20 15:46:43.045707 - global warming -  Baton Rouge LA :no data
+2020-11-20 15:46:53.487605 - global warming -  Biloxi-Gulfport MS :no data
+2020-11-20 15:47:05.144032 - global warming -  Columbus-Tupelo-West Point MS :no data
+2020-11-20 15:47:17.053474 - global warming -  Greenwood-Greenville MS :no data
+2020-11-20 15:47:30.008222 - global warming -  Hattiesburg-Laurel MS :no data
+2020-11-20 15:47:43.275492 - global warming -  Jackson MS :no data
+2020-11-20 15:47:55.742641 - global warming -  Memphis TN :no data
+2020-11-20 15:48:08.497229 - global warming -  Meridian MS :no data
+2020-11-20 15:48:21.230679 - global warming -  Columbia-Jefferson City MO :no data
+2020-11-20 15:48:35.127288 - global warming -  Joplin MO-Pittsburg KS :no data
+2020-11-20 15:48:47.765657 - global warming -  Kansas City MO :no data
+2020-11-20 15:49:00.484428 - global warming -  Ottumwa IA-Kirksville MO :no data
+2020-11-20 15:49:13.187843 - global warming -  Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL :no data
+2020-11-20 15:49:25.427647 - global warming -  Quincy IL-Hannibal MO-Keokuk IA :no data
+2020-11-20 15:49:37.771204 - global warming -  Springfield MO :no data
+2020-11-20 15:49:50.246584 - global warming -  St. Joseph MO :no data
+2020-11-20 15:50:01.919539 - global warming -  St. Louis MO :no data
+2020-11-20 15:50:14.380742 - global warming -  Billings, MT :no data
+2020-11-20 15:50:26.498531 - global warming -  Butte-Bozeman MT :no data
+2020-11-20 15:50:38.552347 - global warming -  Glendive MT :no data
+2020-11-20 15:50:49.919041 - global warming -  Great Falls MT :no data
+2020-11-20 15:51:01.934506 - global warming -  Helena MT :no data
+2020-11-20 15:51:15.620199 - global warming -  Minot-Bismarck-Dickinson(Williston) ND :no data
+2020-11-20 15:51:29.093449 - global warming -  Missoula MT :no data
+2020-11-20 15:51:41.899571 - global warming -  Cheyenne WY-Scottsbluff NE :no data
+2020-11-20 15:51:57.151195 - global warming -  Denver CO :no data
+2020-11-20 15:52:11.843432 - global warming -  Lincoln & Hastings-Kearney NE :no data
+2020-11-20 15:52:24.628535 - global warming -  North Platte NE :no data
+2020-11-20 15:52:37.507026 - global warming -  Omaha NE :no data
+2020-11-20 15:52:49.936319 - global warming -  Sioux City IA :no data
+2020-11-20 15:53:06.892698 - global warming -  Sioux Falls(Mitchell) SD :no data
+2020-11-20 15:53:20.055728 - global warming -  Las Vegas NV :no data
+2020-11-20 15:53:33.168501 - global warming -  Reno NV :no data
+2020-11-20 15:53:48.616193 - global warming -  Salt Lake City UT :no data
+2020-11-20 15:54:03.726639 - global warming -  Boston MA-Manchester NH :no data
+2020-11-20 15:54:29.334822 - global warming -  Burlington VT-Plattsburgh NY :no data
+2020-11-20 15:54:47.180790 - global warming -  Portland-Auburn ME :no data
+2020-11-20 15:54:58.956831 - global warming -  New York NY :no data
+2020-11-20 15:55:10.507707 - global warming -  Philadelphia PA :no data
+2020-11-20 15:55:21.961989 - global warming -  Albuquerque-Santa Fe NM :no data
+2020-11-20 15:55:35.090805 - global warming -  Amarillo TX :no data
+2020-11-20 15:55:47.608730 - global warming -  El Paso TX :no data
+2020-11-20 15:55:58.430952 - global warming -  Albany-Schenectady-Troy NY :no data
+2020-11-20 15:56:09.159490 - global warming -  Binghamton NY :no data
+2020-11-20 15:56:20.440794 - global warming -  Buffalo NY :no data
+2020-11-20 15:56:31.463467 - global warming -  Burlington VT-Plattsburgh NY :no data
+2020-11-20 15:56:43.275587 - global warming -  Elmira NY :no data
+2020-11-20 15:56:54.512570 - global warming -  New York NY :no data
+2020-11-20 15:57:05.320785 - global warming -  Rochester NY :no data
+2020-11-20 15:57:16.097367 - global warming -  Syracuse NY :no data
+2020-11-20 15:57:28.504216 - global warming -  Utica NY :no data
+2020-11-20 15:57:39.624859 - global warming -  Watertown NY :no data
+2020-11-20 15:57:50.046479 - global warming -  Charlotte NC :no data
+2020-11-20 15:58:00.642376 - global warming -  Florence-Myrtle Beach SC :no data
+2020-11-20 15:58:11.329390 - global warming -  Greensboro-High Point-Winston Salem NC :no data
+2020-11-20 15:58:22.352068 - global warming -  Greenville-New Bern-Washington NC :no data
+2020-11-20 15:58:32.909323 - global warming -  Greenville-Spartanburg SC-Asheville NC-Anderson SC :no data
+2020-11-20 15:58:43.623595 - global warming -  Norfolk-Portsmouth-Newport News VA :no data
+2020-11-20 15:58:53.987029 - global warming -  Raleigh-Durham (Fayetteville) NC :no data
+2020-11-20 15:59:04.534997 - global warming -  Wilmington NC :no data
+2020-11-20 15:59:15.373614 - global warming -  Fargo-Valley City ND :no data
+2020-11-20 15:59:26.221360 - global warming -  Minot-Bismarck-Dickinson(Williston) ND :no data
+2020-11-20 15:59:37.131157 - global warming -  Charleston-Huntington WV :no data
+2020-11-20 15:59:52.053829 - global warming -  Cincinnati OH :no data
+2020-11-20 16:00:06.512758 - global warming -  Cleveland-Akron (Canton) OH :no data
+2020-11-20 16:00:20.906817 - global warming -  Columbus OH :no data
+2020-11-20 16:00:34.142380 - global warming -  Dayton OH :no data
+2020-11-20 16:00:48.823004 - global warming -  Ft. Wayne IN :no data
+2020-11-20 16:01:02.235912 - global warming -  Lima OH :no data
+2020-11-20 16:01:14.910303 - global warming -  Parkersburg WV :no data
+2020-11-20 16:01:28.315846 - global warming -  Toledo OH :no data
+2020-11-20 16:01:40.332663 - global warming -  Wheeling WV-Steubenville OH :no data
+2020-11-20 16:01:54.324605 - global warming -  Youngstown OH :no data
+2020-11-20 16:02:08.403577 - global warming -  Zanesville OH :no data
+2020-11-20 16:02:21.807255 - global warming -  Amarillo TX :no data
+2020-11-20 16:02:35.106169 - global warming -  Ft. Smith-Fayetteville-Springdale-Rogers AR :no data
+2020-11-20 16:02:48.653523 - global warming -  Oklahoma City OK :no data
+2020-11-20 16:03:01.384410 - global warming -  Sherman TX-Ada OK :no data
+2020-11-20 16:03:12.168126 - global warming -  Tulsa OK :no data
+2020-11-20 16:03:22.947290 - global warming -  Wichita Falls TX & Lawton OK :no data
+2020-11-20 16:03:37.187675 - global warming -  Bend OR :no data
+2020-11-20 16:03:48.337584 - global warming -  Boise ID :no data
+2020-11-20 16:04:03.605885 - global warming -  Eugene OR :no data
+2020-11-20 16:04:15.203173 - global warming -  Medford-Klamath Falls OR :no data
+2020-11-20 16:04:31.077540 - global warming -  Portland OR :no data
+2020-11-20 16:04:55.326938 - global warming -  Yakima-Pasco-Richland-Kennewick WA :no data
+2020-11-20 16:05:07.687898 - global warming -  Buffalo NY :no data
+2020-11-20 16:05:21.592279 - global warming -  Elmira NY :no data
+2020-11-20 16:05:31.949589 - global warming -  Erie PA :no data
+2020-11-20 16:05:42.781132 - global warming -  Harrisburg-Lancaster-Lebanon-York PA :no data
+2020-11-20 16:05:53.390502 - global warming -  Johnstown-Altoona PA :no data
+2020-11-20 16:06:04.440341 - global warming -  Philadelphia PA :no data
+2020-11-20 16:06:15.280992 - global warming -  Pittsburgh PA :no data
+2020-11-20 16:06:26.256219 - global warming -  Wilkes Barre-Scranton PA :no data
+2020-11-20 16:06:36.960565 - global warming -  Youngstown OH :no data
+2020-11-20 16:06:48.315262 - global warming -  Rhode Island :no data
+2020-11-20 16:06:59.578854 - global warming -  Augusta GA :no data
+2020-11-20 16:07:10.298952 - global warming -  Charleston SC :no data
+2020-11-20 16:07:20.969801 - global warming -  Charlotte NC :no data
