@@ -4,12 +4,11 @@ from datetime import datetime
 
 import util
 
-pytrends = TrendReq(hl='en-US', tz=360, timeout=(10, 25), retries=2,
-                    backoff_factor=0.1)
+pytrends = TrendReq()
 
 # kw_list = ["climate change", "global warming"]
 kw_list = ["global warming"]
-TIME_FRAME = "2004-01-01 2020-10-31"
+TIME_FRAME = "2020-01-01 2020-10-31"
 time_ranges = util.get_time_range(TIME_FRAME)
 
 with open('data/us_city_codes.txt') as f:
@@ -29,7 +28,7 @@ for time_range in time_ranges:
                                                   year_end=time_range.get("year_end"),
                                                   month_end=time_range.get("month_end"),
                                                   day_end=time_range.get("day_end"),
-                                                  hour_end=23, gprop='', sleep=0.5, geo=geocode[0])
+                                                  hour_end=23, gprop='', sleep=2, geo=geocode[0])
         print(f"Request time: {datetime.now() - run_time}")
 
         if tmp_df.empty:
