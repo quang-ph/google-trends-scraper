@@ -15,7 +15,7 @@ with open('data/us_city_codes.txt') as f:
     geocodes = f.readlines()
 geocodes = [tuple(geocode.strip().split(',', 1)) for geocode in geocodes]
 
-df = pd.DataFrame()
+# df = pd.DataFrame()
 for time_range in time_ranges:
     print(time_range)
     for i, geocode in enumerate(geocodes):
@@ -39,9 +39,9 @@ for time_range in time_ranges:
             tmp_df = tmp_df['global warming'].to_frame(name=f'{geocode[1].strip()}')
             tmp_df.to_csv(f'result/{geocode[0]}-{time_range.get("year_start")}.csv')
 
-        if df.empty:
-            df = tmp_df.copy()
-        else:
-            df = df.join(tmp_df)
+        # if df.empty:
+        #     df = tmp_df.copy()
+        # else:
+        #     df = df.join(tmp_df)
 
-    df.to_csv(f'result/global_warming_{time_range.get("year_start")}.csv')
+    # df.to_csv(f'result/global_warming_{time_range.get("year_start")}.csv')
