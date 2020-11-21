@@ -1,47 +1,54 @@
-import pandas as pd
 from pytrends.request import TrendReq
 from datetime import datetime
-
+import click
 import util
+import os
 
-pytrends = TrendReq()
 
-# kw_list = ["climate change", "global warming"]
-kw_list = ["global warming"]
-TIME_FRAME = "2020-01-01 2020-10-31"
-time_ranges = util.get_time_range(TIME_FRAME)
+@click.command()
+@click.option('--keyword', required=True, help='Keyword to search on Google Trends')
+@click.option('--time-frame', required=True,
+              help='Time period to search for (include start date and end date). Format: "YYYY-MM-DD YYYY-MM-DD"')
+@click.option('--sleep', required=False, default=2, help='Time to sleep after a request to Google API')
+def scrape(keyword, time_frame, sleep):
+    print(f"keyword = {keyword}")
+    print(f"time-frame = {time_frame}")
+    print(f"sleep = {sleep}")
 
-with open('data/us_city_codes.txt') as f:
-    geocodes = f.readlines()
-geocodes = [tuple(geocode.strip().split(',', 1)) for geocode in geocodes]
+    if not os.path.exists(f'result/{keyword.replace(" ", "_")}'):
+        os.makedirs(f'result/{keyword.replace(" ", "_")}')
 
-# df = pd.DataFrame()
-for time_range in time_ranges:
-    print(time_range)
-    for i, geocode in enumerate(geocodes):
-        print(f"{datetime.now()} - {geocode[1].strip()}")
-        run_time = datetime.now()
-        tmp_df = pytrends.get_historical_interest(kw_list, year_start=time_range.get("year_start"),
-                                                  month_start=time_range.get("month_start"),
-                                                  day_start=time_range.get("day_start"),
-                                                  hour_start=0,
-                                                  year_end=time_range.get("year_end"),
-                                                  month_end=time_range.get("month_end"),
-                                                  day_end=time_range.get("day_end"),
-                                                  hour_end=23, gprop='', sleep=2, geo=geocode[0])
-        print(f"Request time: {datetime.now() - run_time}")
+    pytrends = TrendReq()
 
-        if tmp_df.empty:
-            with open('log/logs.txt', 'a') as f:
-                f.write(f"{datetime.now()} - {kw_list[0]} - {geocode[1]} :no data\n")
-            continue
-        else:
-            tmp_df = tmp_df['global warming'].to_frame(name=f'{geocode[1].strip()}')
-            tmp_df.to_csv(f'result/{geocode[0]}-{time_range.get("year_start")}.csv')
+    time_ranges = util.get_time_range(time_frame)
 
-        # if df.empty:
-        #     df = tmp_df.copy()
-        # else:
-        #     df = df.join(tmp_df)
+    geocodes = util.load_geocode()
 
-    # df.to_csv(f'result/global_warming_{time_range.get("year_start")}.csv')
+    for time_range in time_ranges:
+        time_range_str = f'{time_range.get("year_start")}-{time_range.get("month_start")}-{time_range.get("day_start")} ' \
+                         f'{time_range.get("year_end")}-{time_range.get("month_end")}-{time_range.get("day_end")}'
+        for i, geocode in enumerate(geocodes):
+            print(f"{datetime.now()} - {keyword} - {time_range_str} - {geocode[1].strip()}")
+            run_time = datetime.now()
+            tmp_df = pytrends.get_historical_interest([keyword], year_start=time_range.get("year_start"),
+                                                      month_start=time_range.get("month_start"),
+                                                      day_start=time_range.get("day_start"),
+                                                      hour_start=0,
+                                                      year_end=time_range.get("year_end"),
+                                                      month_end=time_range.get("month_end"),
+                                                      day_end=time_range.get("day_end"),
+                                                      hour_end=23, gprop='', sleep=sleep, geo=geocode[0])
+            print(f"Request time: {datetime.now() - run_time}")
+
+            if tmp_df.empty:
+                with open('log/logs.txt', 'a') as f:
+                    f.write(f"{datetime.now()} - {keyword} - {time_range_str} - {geocode[1].strip()} : no data\n")
+                continue
+            else:
+                tmp_df = tmp_df[keyword].to_frame(name=f'{geocode[1].strip()}')
+                tmp_df.to_csv(
+                    f'result/{keyword.replace(" ", "_")}/{geocode[1].strip().replace(" ", "_")}-{time_range.get("year_start")}.csv')
+
+
+if __name__ == '__main__':
+    scrape()
