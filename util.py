@@ -28,3 +28,5 @@ def load_geocode():
         geocodes = f.readlines()
     geocodes = [tuple(geocode.strip().split(',', 1)) for geocode in geocodes]
     return geocodes
+
+

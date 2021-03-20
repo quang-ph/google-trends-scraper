@@ -1,3 +1,5 @@
+import time
+
 from pytrends.request import TrendReq
 from datetime import datetime
 import click
@@ -48,6 +50,8 @@ def scrape(keyword, time_frame, sleep):
                 tmp_df = tmp_df[keyword].to_frame(name=f'{geocode[1].strip()}')
                 tmp_df.to_csv(
                     f'result/{keyword.replace(" ", "_")}/{geocode[1].strip().replace(" ", "_")}-{time_range.get("year_start")}.csv')
+
+            time.sleep(sleep)
 
 
 if __name__ == '__main__':

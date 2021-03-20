@@ -16,3 +16,6 @@ Options:
 example: 
     python trend_scraper.py --keyword "global warming" --time-frame "2020-10-20 2020-10-21" --sleep 2
 ```
+
+### Credits
+- [PyTrends library](https://pypi.org/project/pytrends/)
